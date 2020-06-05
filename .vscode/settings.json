@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "/Users/loyyeeko/Code/GitHub/Python/Youtube/Sentdex/Finance/venv/bin/python3",
+    "git.ignoreLimitWarning": true,
+    "python.linting.mypyEnabled": true,
+    "python.linting.enabled": true,
+    "python.formatting.provider": "black"
+}
